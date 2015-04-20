@@ -16,6 +16,7 @@
  * specific language governing permissions and limitations
  * under the License.
  */
+ /* This is a comment for an example for Hybrid Mobile*/
 var app = {
     // Application Constructor
     initialize: function() {
